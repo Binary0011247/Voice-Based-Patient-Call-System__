@@ -1,0 +1,664 @@
+Text,Priority
+"""I have a high fever.""",High
+"""I need water.""",Low
+"""Urgent help needed for chest pain.""",High
+"""Can you bring me a glass of water?""",Low
+"""Severe headache and dizziness.""",High
+"""Where is my medication?""",Medium
+"""I have trouble breathing.""",High
+"""What time is it?""",Low
+"""I feel nauseous.""",Medium
+"""Call the nurse immediately!""",High
+"""I need assistance walking.""",Medium
+"""I lost my keys.""",Low
+"""My chest feels tight, I need help!""",High
+"""I need to use the restroom.""",Low
+"""My back hurts, I need pain relief.""",Medium
+"""Can you bring me a blanket?""",Low
+"""I'm having a heart attack!""",High
+"""Can you get me some medicine?""",Low
+"""I need help with my IV drip.""",High
+"""I'm feeling weak and dizzy.""",High
+"""My stomach is upset, please help.""",Medium
+"""How long until my surgery?""",Low
+"""I need my insulin shot now.""",High
+"""I think I broke my arm!""",High
+"""Can someone check my blood pressure?""",Medium
+"""I need something to eat.""",Low
+"""I need help with my wheelchair.""",Medium
+"""I can't breathe properly.""",High
+"""How do I turn on the TV?""",Low
+"""Please get me a doctor, quickly!""",High
+"""My head hurts, but it's not that bad.""",Medium
+"""I need a warm blanket.""",Low
+"""I’m feeling faint and weak.""",High
+"""Please help me to the bathroom.""",Medium
+"""I need painkillers for my headache.""",High
+"""How do I log into my account?""",Low
+"""My leg is swollen and I need assistance.""",High
+"""Can you bring me my phone charger?""",Low
+"""I need help finding my glasses.""",Low
+"""My arm feels numb, I need help!""",High
+"""Please get me a glass of juice.""",Low
+"""I need a nurse for my wound dressing.""",High
+"""I have a cold and need tissues.""",Medium
+"""Please check my temperature.""",High
+"""Can someone bring me a magazine?""",Low
+"""I need to use the restroom urgently!""",High
+"""Can you help me with my bandages?""",Medium
+"""I feel dizzy when I stand up.""",Medium
+"""I need a new pillow for my bed.""",Low
+"""I feel like I’m going to faint.""",High
+"""I need help with my medications.""",High
+"""I'm having trouble breathing.""",High
+"""Can someone get me a glass of water?""",Low
+"""My head is pounding, I need something for pain.""",High
+"""I feel nauseous, can I get some water?""",Medium
+"""My chest feels tight.""",High
+"""I’m cold, please bring me a blanket.""",Low
+"""I need assistance to stand up.""",Medium
+"""I feel dizzy when I stand up.""",Medium
+"""I think I have a fever.""",High
+"""I need help moving to a different bed.""",Medium
+"""Can someone help me to the restroom?""",High
+"""Please get me my painkiller.""",High
+"""Can someone check my oxygen levels?""",High
+"""I feel weak and need help walking.""",Medium
+"""Can you bring me some ice cream?""",Low
+"""Please bring me my phone.""",Low
+"""I need a doctor right now!""",High
+"""My throat is sore, I need something for it.""",Medium
+"""I feel faint, I need help.""",High
+"""My wound is bleeding, please help!""",High
+"""I need help adjusting my IV.""",High
+"""Please get me some warm tea.""",Low
+"""I need to lie down, I feel dizzy.""",High
+"""Can I have a pillow under my head?""",Low
+"""I think I sprained my ankle.""",High
+"""I need some juice, I’m feeling weak.""",Medium
+"""Please get me a nurse, I’m feeling unwell.""",High
+"""Can you please get me my book?""",Low
+"""I’m feeling nauseous and need some medicine.""",High
+"""My arm is swollen, please help!""",High
+"""I feel very weak, I need to lie down.""",High
+"""Can you help me with my wheelchair?""",Medium
+"""I need a new bandage for my wound.""",High
+"""I’m feeling lightheaded, I need assistance.""",High
+"""Can someone get me a cold compress?""",Low
+"""I need some water, I feel dehydrated.""",Medium
+"""My heart rate is too fast, I need help.""",High
+"""Please check my blood pressure.""",Medium
+"""Can I get some more blankets, I’m cold?""",Low
+"""I need pain relief, my back hurts.""",Medium
+"""Please help me with my medication schedule.""",Medium
+"""I need help using the restroom.""",High
+"""Can you get me some tissues, I’m sneezing a lot.""",Low
+"""I’m feeling very hot, please get me some cold water.""",High
+"""I need my prescription filled.""",Medium
+"""I’m feeling really weak and need to rest.""",High
+"""I need help with my gown.""",Low
+"""My heart is racing, I need help!""",High
+"""Can I get some tea for my sore throat?""",Low
+"""I need a nurse to check my vitals.""",High
+"""Please help me with my IV drip.""",High
+"""I’m having stomach cramps, can you help?""",Medium
+"""I need a wheelchair to move around.""",Medium
+"""Please get me some aspirin.""",High
+"""I have severe headache, please help!""",High
+"""I feel exhausted and need to rest.""",Low
+"""Can someone help me get up from the bed?""",Medium
+"""I need some ice packs for my swelling.""",Medium
+"""Can you please get me my glasses?""",Low
+"""I think I might faint, please help!""",High
+"""My feet are hurting badly, can I get some relief?""",Medium
+"""I need a doctor immediately!""",High
+"""Please get me a painkiller for my back.""",High
+"""I am feeling very cold, please bring a blanket.""",Low
+"""Can someone check my blood sugar levels?""",High
+"""My knees are aching, I need some rest.""",Medium
+"""I’m having trouble breathing, please assist!""",High
+"""I need to use the restroom, please help.""",High
+"""Please help me with my oxygen mask.""",High
+"""I need a nurse for a checkup.""",Medium
+"""Can you bring me some soup?""",Low
+"""I feel dizzy, I need assistance getting up.""",High
+"""Please help me sit up, I feel like I might fall.""",High
+"""I need a glass of water right now!""",Low
+"""My throat hurts, I need something to relieve it.""",Medium
+"""I need a blanket to keep warm.""",Low
+"""Can you help me with my wheelchair?""",Medium
+"""I need pain relief for my stomach.""",Medium
+"""I feel very weak, please bring me some food.""",Medium
+"""I need a change of sheets, please.""",Low
+"""Can you please check my blood pressure?""",High
+"""Please get me my inhaler, I’m having trouble breathing.""",High
+"""I feel nauseous, can I get some medication for it?""",High
+"""Can you get me a pillow for my back?""",Low
+"""I feel a sharp pain in my chest, please help!""",High
+"""I need help to sit up, I feel faint.""",High
+"""Can you bring me some fruit?""",Low
+"""I need assistance adjusting my IV.""",High
+"""Please help me with my medication.""",Medium
+"""I’m feeling weak and need support walking.""",Medium
+"""I need someone to check my vital signs.""",High
+"""Please bring me my water bottle.""",Low
+"""I think I have food poisoning, I need help.""",High
+"""Can you help me get comfortable in bed?""",Low
+"""I’m feeling very hot, please get me some cold water.""",High
+"""I need some medicine for my headache.""",High
+"""Please help me with my breathing exercises.""",Medium
+"""I’m feeling weak, can someone help me get up?""",High
+"""I need assistance changing my position in bed.""",Low
+"""I’m feeling nauseous, can you get me something for it?""",High
+"""Can someone bring me a blanket? I’m shivering.""",Low
+"""Please bring me a cup of tea.""",Low
+"""I feel dizzy, I need to lie down.""",High
+"""Can someone help me get out of bed?""",High
+"""I need help adjusting my pillow.""",Low
+"""Please bring me my medicine for the pain.""",High
+"""I need a nurse to check my breathing.""",High
+"""Can you bring me some snacks?""",Low
+"""My foot is swollen, can someone help me?""",High
+"""I need someone to help me with my insulin injection.""",High
+"""Can I get a glass of cold water, I’m feeling overheated?""",High
+"""I feel extremely weak, I need help moving.""",High
+"""Please get me my slippers, I’m cold.""",Low
+"""Can you bring me some cough syrup?""",Medium
+"""I need assistance with my medical appointment.""",Medium
+"""Can someone help me sit upright in bed?""",Low
+"""I feel very faint, please help me.""",High
+"""I need help going to the bathroom.""",High
+"""I feel a sharp pain in my stomach, I need some relief.""",High
+"""Can you help me adjust the temperature in the room?""",Low
+"""I need someone to check my vitals regularly.""",High
+"""I need a painkiller for my headache.""",High
+"""Can someone check my oxygen levels? I feel breathless.""",High
+"""Please help me with my blood pressure medication.""",Medium
+"""I need some fresh air, I’m feeling suffocated.""",Low
+"""Please help me with my IV drip.""",High
+"""Can I get a pillow for my neck?""",Low
+"""I feel very weak, I need assistance with walking.""",Medium
+"""Can you bring me my prescribed medication?""",High
+"""I feel like I’m about to faint, can someone help?""",High
+"""Please help me sit up, I need assistance.""",Medium
+"""Can someone assist me with my wheelchair?""",Medium
+"""I need someone to adjust my sheets.""",Low
+"""Can you bring me some water with a straw?""",Low
+"""I need help with my medication schedule.""",Medium
+"""I feel dizzy, please help me get some rest.""",Medium
+"""Please get me some fresh water.""",Low
+"""I need help with my wheelchair adjustments.""",Medium
+"""Can you bring me a cold compress for my head?""",Low
+"""I feel extremely hot, please get me some cold water.""",High
+"""Can someone bring me a blanket?""",Low
+"""Please bring me my reading glasses.""",Low
+"""I need someone to assist me with a walking aid.""",Medium
+"""Can you bring me my cell phone?""",Low
+"""I need help with my oxygen mask.""",High
+"""I’m feeling very weak, can you bring me a snack?""",Low
+"""I need help getting to the restroom.""",High
+"""Can someone bring me a glass of water?""",Low
+"""Please bring me some ice cream.""",Low
+"""I need someone to help me with my medication.""",High
+"""I need help with adjusting my pillow.""",Low
+"""Can I get some relief for my stomach ache?""",Medium
+"""Please get me some pain relief.""",High
+"""Can you bring me a hot water bottle?""",Low
+"""I feel very weak, can someone help me up?""",High
+"""Please help me, I feel lightheaded.""",High
+"""I need someone to check my heart rate.""",High
+"""I feel very hot, please bring me a fan.""",Low
+"""Can someone assist me in getting out of bed?""",High
+"""I need a glass of water right now.""",Low
+"""Please help me with my breathing, I feel suffocated.""",High
+"""Can I get some painkillers for my headache?""",High
+"""I need assistance with my medication.""",Medium
+"""Can someone help me get up from the chair?""",High
+"""I’m feeling very weak, please assist me.""",High
+"""Please help me find my glasses.""",Low
+"""I need a doctor right away!""",High
+"""Can someone please check my temperature?""",High
+"""Please bring me a blanket, I’m feeling cold.""",Low
+"""I need help adjusting my position in bed.""",Low
+"""Please help me with my insulin injection.""",High
+"""I need a nurse to check on me.""",Medium
+"""Can someone help me get my medications?""",High
+"""I feel nauseous, please get me some medicine.""",High
+"""Please bring me a pillow, I need to rest my neck.""",Low
+"""Can someone assist me with my catheter?""",High
+"""I feel like I’m about to faint, please help me!""",High
+"""Can I get a glass of warm water?""",Low
+"""I need someone to check my vitals.""",High
+"""Please help me with my breathing exercises.""",Medium
+"""I need help to the restroom.""",High
+"""Can you get me my painkillers?""",High
+"""I need someone to assist me in sitting up.""",Medium
+"""Please help me with my walking stick.""",Medium
+"""I feel very weak, can someone assist me?""",High
+"""Can you please bring me a cold compress?""",Low
+"""I feel faint, can someone help me?""",High
+"""Can someone bring me my inhaler?""",High
+"""I need a doctor for an immediate consultation.""",High
+"""Can you help me change my position in bed?""",Low
+"""Please bring me my medication for blood pressure.""",High
+"""I feel very dizzy, I need some help.""",High
+"""I need help getting back to my bed.""",Medium
+"""Can you bring me a glass of juice?""",Low
+"""Please assist me with my oxygen mask.""",High
+"""I need some pain relief for my neck.""",Medium
+"""Please get me my prescribed medicine.""",High
+"""Can someone help me adjust my bed?""",Low
+"""I need someone to check my blood sugar.""",High
+"""Can you bring me a cool drink? I’m feeling overheated.""",High
+"""I need help with my blood pressure medication.""",Medium
+"""Can someone please get me a snack?""",Low
+"""I need someone to help me use the restroom.""",High
+"""Please bring me some cold water.""",Low
+"""Can you help me get up from the floor?""",High
+"""I feel lightheaded, can someone help me?""",High
+"""Can you assist me with my bedpan?""",High
+"""I need a cold compress for my head.""",Low
+"""I feel very weak, can I get some food?""",Low
+"""Can someone help me find my phone?""",Low
+"""I need to use the bathroom urgently.""",High
+"""Can you help me sit up, I’m feeling faint?""",High
+"""Please bring me some hot water for my throat.""",Low
+"""Can you help me take my temperature?""",High
+"""I need some pain relief for my stomach.""",High
+"""Can you please bring me a glass of water?""",Low
+"""I feel like I’m going to pass out, can someone help?""",High
+"""I need help with my wheelchair adjustment.""",Medium
+"""Please bring me some soup for my stomach.""",Low
+"""Can you help me to the restroom?""",High
+"""I need someone to help me get out of bed.""",High
+"""Please assist me with my medication schedule.""",Medium
+"""I need to use the restroom immediately.""",High
+"""Can someone check my oxygen levels?""",High
+"""I need a nurse to assist me with my IV drip.""",High
+"""Can someone bring me a chair to sit in?""",Low
+"""Please help me with my breathing treatment.""",High
+"""I need someone to assist me in walking.""",Medium
+"""Can I get a blanket, I’m feeling chilly?""",Low
+"""I need help adjusting my pillow.""",Low
+"""Can you help me with my blood sugar test?""",High
+"""I feel weak, please bring me some juice.""",Low
+"""Please assist me with my oxygen levels.""",High
+"""Can you help me adjust my hospital gown?""",Low
+"""Please bring me my blood pressure medication.""",High
+"""I feel very weak, can I get some soup?""",Low
+"""Can someone help me change my position?""",Medium
+"""I need to use the restroom urgently, please assist.""",High
+"""Please bring me a cold drink, I’m overheating.""",Low
+"""I need help with my insulin dose.""",High
+"""Can you bring me my pain relief?""",High
+"""I feel dizzy, can I get a snack?""",Low
+"""I need some relief for my back pain.""",Medium
+"""Please assist me in standing up, I feel weak.""",High
+"""I need someone to adjust my pillow.""",Low
+"""Can you please help me with my wheelchair?""",Medium
+"""Please bring me my prescribed medications.""",High
+"""Can someone help me to the bathroom?""",High
+"""I need help with my breathing mask.""",High
+"""Can you get me a glass of warm water?""",Low
+"""I need someone to help me sit up in bed.""",Medium
+"""Please get me my pain relief for my stomach.""",High
+"""Can you bring me a cool drink, I feel overheated?""",High
+"""Please assist me with my insulin pump.""",High
+"""I feel very weak, can I get a snack?""",Low
+"""Please help me adjust the temperature in the room.""",Low
+"""Can someone assist me with my chair?""",Low
+"""I need someone to assist me with my breathing exercises.""",Medium
+"""Can I get a pillow for my back?""",Low
+"""I need help with my medication for heart problems.""",High
+"""Please bring me my medications for diabetes.""",High
+"""Can you bring me a blanket, I’m cold?""",Low
+"""I feel very lightheaded, please assist me.""",High
+"""I need help adjusting my IV drip.""",High
+"""Can someone help me sit up in bed?""",Medium
+"""I need someone to bring me my painkillers.""",High
+"""Please assist me with my breathing treatments.""",High
+"""Can you get me a cold drink, I’m feeling warm?""",Low
+"""Please help me get back to bed, I feel very weak.""",High
+"""I need someone to help me adjust my oxygen mask.""",High
+"""Can someone bring me my heart medication?""",High
+"""Please help me with my blood pressure.""",High
+"""I need some relief for my back pain.""",Medium
+"""Can you help me adjust my pillow for comfort?""",Low
+"""Please bring me my prescribed antibiotics.""",High
+"""I feel nauseous, can someone help me?""",High
+"""I need someone to help me sit upright.""",Medium
+"""Please bring me my eye drops.""",Low
+"""I need assistance with my wheelchair.""",Medium
+"""Can someone help me get my blanket?""",Low
+"""I feel like I’m going to faint, please help me!""",High
+"""Please bring me a glass of water, I’m feeling thirsty.""",Low
+"""Can you help me sit up, I need to take my medication?""",Medium
+"""I need someone to assist me with walking to the restroom.""",High
+"""Please get me my heart medication.""",High
+"""I need help adjusting the bed to a sitting position.""",Low
+"""I need help with my breathing treatment, please.""",High
+"""Please bring me some cold water, I’m overheating.""",Low
+"""Can someone help me sit up straight?""",Medium
+"""I feel lightheaded, can you please assist me?""",High
+"""Please bring me my pain medication.""",High
+"""I need someone to help me with my insulin shot.""",High
+"""Can you assist me with my hospital gown?""",Low
+"""Please bring me a blanket, I’m cold.""",Low
+"""I need some pain relief for my muscles.""",Medium
+"""Can you help me with my IV drip adjustment?""",High
+"""Please help me adjust my position in the bed.""",Low
+"""I need to use the restroom, please assist.""",High
+"""Can someone get me a glass of juice?""",Low
+"""I need help with my catheter.""",High
+"""Please assist me with my walking cane.""",Low
+"""Can someone check my pulse?""",High
+"""I need some assistance with getting up from the chair.""",High
+"""Please help me sit up in bed.""",Medium
+"""Can someone help me adjust my bed?""",Low
+"""Please get me my prescribed medication for stomach pain.""",High
+"""I need someone to assist me in standing up.""",High
+"""Can you bring me a glass of warm water?""",Low
+"""I need someone to adjust my oxygen mask.""",High
+"""Can you help me with my blood sugar level?""",High
+"""Please bring me my heart medication.""",High
+"""Can someone bring me a cool drink, I’m overheating?""",Low
+"""I need to use the restroom urgently.""",High
+"""Please help me with my breathing exercises.""",High
+"""I feel faint, can you assist me to sit down?""",High
+"""Can someone help me with my wheelchair?""",Medium
+"""I need help with my insulin injection.""",High
+"""Please bring me my painkillers for my back.""",High
+"""Can you help me change positions in bed?""",Low
+"""I need a glass of water to hydrate.""",Low
+"""Please help me with my feeding tube.""",High
+"""Can someone check my temperature?""",High
+"""I need assistance with my walker.""",Medium
+"""Please bring me my blood pressure medication.""",High
+"""Can you help me get up from the bed?""",High
+"""I feel weak, can I get some water?""",Low
+"""Please bring me my pain relief for my stomach.""",High
+"""Can you help me with my oxygen therapy?""",High
+"""Please bring me a blanket, I’m feeling chilly.""",Low
+"""I need someone to check my vitals.""",High
+"""Can you assist me in sitting up?""",Medium
+"""I need to take my medication, please help me.""",High
+"""Please bring me my medication for nausea.""",High
+"""Can someone help me with my hospital gown?""",Low
+"""I feel very weak, please bring me some food.""",Low
+"""Can you help me with my walking support?""",Medium
+"""I need assistance with my bladder issues.""",High
+"""Please bring me a cold compress for my head.""",Low
+"""I need help sitting up, I feel faint.""",High
+"""Can you assist me in walking to the restroom?""",High
+"""Please help me with my oxygen tank.""",High
+"""I need a nurse to assist me with my IV.""",High
+"""Can you get me some water, I’m feeling dehydrated?""",Low
+"""I need help getting out of bed, I’m feeling dizzy.""",High
+"""Please bring me my prescribed heart medication.""",High
+"""Can someone help me sit up straight?""",Medium
+"""I feel very weak, I need some assistance.""",High
+"""Please bring me my blood pressure monitor.""",High
+"""I need some pain relief for my back, please.""",Medium
+"""Can you help me adjust my position?""",Low
+"""Please assist me with my walking cane.""",Low
+"""I need help getting to the bathroom.""",High
+"""Please bring me some cold water, I’m feeling hot.""",Low
+"""Can you assist me with my chair?""",Low
+"""I need someone to help me with my physical therapy.""",High
+"""Can you please bring me my insulin medication?""",High
+"""Please help me with my breathing exercises.""",Medium
+"""Can someone bring me my prescribed medications?""",High
+"""I feel very weak, please help me get up.""",High
+"""I need help adjusting my oxygen mask.""",High
+"""Please bring me my medication for pain relief.""",High
+"""Can you assist me in getting out of bed?""",Medium
+"""I feel faint, can I get some food?""",Low
+"""Please help me with my insulin pump.""",High
+"""Can you bring me my heart medication?""",High
+"""I need someone to check my vitals.""",High
+"""Please help me sit up, I’m feeling weak.""",High
+"""Can someone assist me with my walking stick?""",Medium
+"""I need help with my oxygen tank.""",High
+"""Please assist me in sitting up in bed.""",Low
+"""Can you bring me a glass of juice?""",Low
+"""I need someone to assist me with my feeding tube.""",High
+"""Please help me with my breathing machine.""",High
+"""Can you bring me my pain medication for my muscles?""",High
+"""I need help with my blood pressure, please.""",High
+"""Can someone assist me with my temperature check?""",High
+"""Please help me with my blood sugar levels.""",High
+"""I feel weak, can someone help me walk?""",High
+"""Can you bring me my heart medication?""",High
+"""Please help me adjust my IV drip.""",High
+"""I need help with my blood pressure medication.""",High
+"""Can you assist me with my feeding tube?""",High
+"""I need a doctor to check on me.""",High
+"""Can you help me with my breathing mask?""",High
+"""I need assistance to get out of bed.""",High
+"""Please bring me my prescribed medication for headaches.""",High
+"""Can someone help me adjust my position in bed?""",Low
+"""I need someone to check my pulse.""",High
+"""Please bring me my medication for dizziness.""",High
+"""Can you help me sit up, I feel very weak?""",High
+"""Please assist me with my physical therapy exercises.""",Medium
+"""I need help with my insulin shot, please.""",High
+"""Can someone check my oxygen levels?""",High
+"""I feel faint, can someone bring me my medication?""",High
+"""Please bring me a cool drink, I’m feeling overheated.""",Low
+"""Can you help me sit up straight in bed?""",Medium
+"""Please assist me with my breathing medication.""",High
+"""I need help with my insulin dosage.""",High
+"""Can you bring me a glass of water, I’m feeling thirsty?""",Low
+"""I need someone to assist me in getting to the restroom.""",High
+"""Please bring me my medications for stomach pain.""",High
+"""Can someone assist me with my feeding tube?""",High
+"""I need help adjusting my oxygen mask.""",High
+"""I need assistance to sit up, I feel dizzy.""",High
+"""Can someone bring me a glass of water?""",Low
+"""Please help me with my mobility support.""",Medium
+"""I need my medication for blood pressure.""",High
+"""Can you bring me my pain relief for my back?""",High
+"""Please help me adjust my IV line.""",High
+"""I need to go to the restroom urgently.""",High
+"""Can someone assist me with my food?""",Low
+"""I need help getting up from the chair.""",High
+"""Please bring me my prescribed medication for anxiety.""",High
+"""Can you help me get some rest?""",Medium
+"""I need assistance with my breathing machine.""",High
+"""Please bring me my medication for nausea.""",High
+"""Can you check my temperature?""",High
+"""I feel very weak, please help me get some food.""",Low
+"""Please help me adjust my hospital gown.""",Low
+"""Can you assist me with my oxygen tank?""",High
+"""I need some water to drink, I’m very thirsty.""",Low
+"""Please help me with my pain relief for my stomach.""",High
+"""Can you bring me my prescribed medication for dizziness?""",High
+"""I need someone to assist me with my feeding tube.""",High
+"""Please bring me a cold compress for my head.""",Low
+"""I need help getting out of bed, I’m feeling weak.""",High
+"""Can someone assist me in sitting up?""",Medium
+"""Please help me adjust my oxygen levels.""",High
+"""I need assistance with my blood sugar levels.""",High
+"""Can someone bring me a glass of juice?""",Low
+"""Please bring me my blood pressure medication.""",High
+"""I need help with my walking cane.""",Low
+"""Can you help me get to the restroom?""",High
+"""Please bring me some water, I’m feeling dehydrated.""",Low
+"""Can someone assist me with my mobility exercises?""",Medium
+"""I need help with my insulin shot.""",High
+"""Please assist me in getting to the bathroom.""",High
+"""Can you help me sit up, I feel faint?""",High
+"""I need assistance with my pain relief for back issues.""",Medium
+"""Please help me adjust my hospital bed.""",Low
+"""Can you bring me my medication for muscle pain?""",High
+"""I need to use the restroom urgently.""",High
+"""Please bring me my prescribed heart medication.""",High
+"""Can you assist me in sitting down?""",Medium
+"""I need someone to help me stand up.""",High
+"""Please help me get some food, I’m hungry.""",Low
+"""Can you bring me a drink, I’m feeling faint?""",Low
+"""I need help adjusting my oxygen mask.""",High
+"""Please bring me my painkillers for my stomach.""",High
+"""Can someone assist me in getting up from bed?""",High
+"""I need assistance with my insulin pump.""",High
+"""Please help me with my breathing treatment.""",High
+"""Can you bring me some cold water, I’m feeling hot?""",Low
+"""I need help sitting up in bed.""",Medium
+"""Please assist me with my physical therapy exercises.""",High
+"""Can someone help me with my oxygen therapy?""",High
+"""I need someone to check my vitals.""",High
+"""Please help me adjust my position in bed.""",Low
+"""Can you help me get out of bed?""",High
+"""I need someone to help me stand up.""",High
+"""Please bring me my prescribed medication for sleep.""",High
+"""Can you assist me with my catheter?""",High
+"""I need some pain relief for my muscles.""",Medium
+"""Please bring me my pain medication for my back.""",High
+"""Can you help me get out of bed and walk?""",High
+"""I need help with my insulin injection.""",High
+"""Please assist me with my breathing exercises.""",High
+"""Can someone bring me a cold compress?""",Low
+"""I need someone to assist me with my physical therapy.""",High
+"""Please bring me my medication for blood sugar control.""",High
+"""Can you help me adjust my hospital bed?""",Low
+"""I need assistance with my feeding tube.""",High
+"""Please help me sit up, I’m feeling lightheaded.""",High
+"""Can someone check my oxygen levels?""",High
+"""I need help walking to the restroom.""",High
+"""Please bring me my pain relief for my muscles.""",High
+"""Can you help me with my insulin pump?""",High
+"""I need some help getting up from bed.""",High
+"""Please help me adjust my IV drip.""",High
+"""Can someone assist me in sitting up in bed?""",Low
+"""I need help with my walking cane.""",Medium
+"""Please bring me my prescribed medications for sleep.""",High
+"""Can you help me with my blood pressure?""",High
+"""I need help sitting up in bed, I’m feeling dizzy.""",High
+"""Please assist me with my catheter and oxygen mask.""",High
+"""Can you help me get my heart medication?""",High
+"""I need someone to assist me with my feeding tube.""",High
+"""Please help me get some water, I’m feeling very thirsty.""",Low
+"""Can someone assist me with my mobility issues?""",Medium
+"""I need help with my insulin shot, please.""",High
+"""Please bring me some cold water, I’m overheating.""",Low
+"""Can you assist me with my physical therapy?""",High
+"""I need help getting to the restroom.""",High
+"""Please bring me my blood pressure medication.""",High
+"""Can someone bring me a glass of juice, I’m thirsty?""",Low
+"""I need assistance with my oxygen therapy.""",High
+"""Please help me with my blood sugar levels.""",High
+"""Can someone check my heart rate?""",High
+"""I need help sitting up in bed, I feel weak.""",High
+"""Please bring me my prescribed medication for nausea.""",High
+"""Can someone help me with my breathing exercises?""",High
+"""I need assistance with my walking cane.""",Low
+"""Please bring me my medication for dizziness.""",High
+"""Can you assist me with my feeding tube?""",High
+"""I need help adjusting my position in bed.""",Low
+"""Please bring me my medication for pain relief.""",High
+"""Can someone help me get up from bed?""",High
+"""I need someone to assist me with my insulin dosage.""",High
+"""Please help me with my insulin pump.""",High
+"""Can you bring me my prescribed pain relief medication?""",High
+"""I need help sitting up in bed, please.""",Medium
+ ,High
+"""I need some assistance to get to the restroom.""",High
+"""Please bring me my prescribed heart medication.""",High
+"""I need help getting into bed, I’m very tired.""",Medium
+"""Please bring me my medication for headaches.""",High
+"""Can someone check my vitals?""",High
+"""I need assistance with my mobility.""",High
+"""Please help me sit up, I feel lightheaded.""",High
+"""Can you bring me my medication for pain relief?""",High
+"""I need assistance with my insulin pump.""",High
+"""Please bring me my prescribed blood pressure medication.""",High
+"""Can you assist me in sitting up in bed?""",Medium
+"""I need help getting out of bed.""",High
+"""Please bring me my pain relief medication for my muscles.""",High
+"""Can you help me with my breathing therapy?""",High
+"""I need someone to check my oxygen levels.""",High
+"""Please assist me with getting to the restroom.""",High
+"""Can you bring me my prescribed medication for muscle pain?""",High
+"""I need help sitting up in bed, I’m feeling dizzy.""",High
+"""Please bring me my prescribed medication for nausea.""",High
+"""Can you help me get a glass of water?""",Low
+"""I need assistance with my insulin shot.""",High
+"""Please bring me my heart medication.""",High
+"""Can you assist me with my feeding tube?""",High
+"""I need help with my catheter.""",High
+"""Please help me adjust my oxygen mask.""",High
+"""Can someone assist me with getting my pain medication?""",High
+"""I need help getting to the restroom, I’m feeling weak.""",High
+"""Please bring me my prescribed medication for dizziness.""",High
+"""Can someone assist me with sitting up in bed?""",Medium
+"""I need help with my breathing exercises.""",High
+"""Please bring me some cold water, I’m feeling dehydrated.""",Low
+"""Can you help me get up from bed?""",High
+"""I need assistance with my blood pressure medication.""",High
+"""Please bring me my prescribed medication for stomach issues.""",High
+"""Can you help me sit up, I feel faint?""",High
+"""I need assistance with my insulin pump.""",High
+"""Please assist me in getting some food, I’m hungry.""",Low
+"""Can someone bring me my prescribed medication for nausea?""",High
+"""I need help getting to the restroom.""",High
+"""Please help me with my pain relief for back issues.""",High
+"""Can you assist me in sitting up?""",Medium
+"""I need some pain relief for my legs.""",High
+"""Please bring me my prescribed heart medication.""",High
+"""Can someone help me with my oxygen therapy?""",High
+"""I need help sitting up in bed.""",Medium
+"""Please help me with my blood sugar levels.""",High
+"""Can you assist me with my catheter and IV?""",High
+"""I need someone to help me walk to the restroom.""",High
+"""Please bring me my prescribed medication for blood pressure.""",High
+"""Can someone assist me with sitting up and adjusting my bed?""",Medium
+"""I need help with my pain medication for my stomach.""",High
+"""Please assist me with getting up from bed.""",High
+"""Can you help me get some water, I’m very thirsty?""",Low
+"""I need assistance with my feeding tube.""",High
+"""Please help me adjust my position in bed.""",Low
+"""Can someone help me with my blood sugar levels?""",High
+"""I need some assistance with getting food.""",Low
+"""Please bring me my prescribed pain relief medication.""",High
+"""Can you assist me with my insulin shot?""",High
+"""I need help sitting up in bed, I feel dizzy.""",High
+"""Please assist me with my physical therapy.""",High
+"""Can someone bring me some cold water?""",Low
+"""I need someone to help me sit up in bed.""",Medium
+"""Please bring me my prescribed medication for dizziness.""",High
+"""Can you help me adjust my IV drip?""",High
+"""I need assistance with my mobility exercises.""",High
+"""Please bring me my prescribed medication for anxiety.""",High
+"""Can you assist me with my blood pressure?""",High
+"""I need help with my feeding tube.""",High
+"""Please assist me in getting up from bed.""",High
+"""Can someone help me with my breathing exercises?""",High
+"""I need someone to bring me my heart medication.""",High
+"""Please help me adjust my oxygen mask.""",High
+"""Can you bring me my medication for my headache?""",High
+"""I need some water, I’m feeling very thirsty.""",Low
+"""Please assist me with my insulin pump.""",High
+"""Can you help me sit up in bed, I’m feeling weak?""",High
+"""I need help getting to the restroom.""",High
+"""Please bring me my prescribed blood pressure medication.""",High
+"""Can you assist me with my IV line?""",High
+"""I need help sitting up, I’m feeling faint.""",High
+"""Please bring me my prescribed medication for nausea.""",High
+"""Can someone assist me with my breathing therapy?""",High
+"""I need assistance with my mobility support.""",High
+"""Please bring me my pain relief medication.""",High
+"""Can you help me get a glass of water, I’m feeling parched.""",Low
+"""I need help adjusting my position in bed.""",Low
+"""Please help me with my insulin shot.""",High
+"""Can someone assist me in sitting up?""",Medium
+"""I need assistance with my catheter.""",High
+"""Please help me sit up, I need to talk to my doctor.""",Medium
+"""Can you help me adjust my oxygen mask?""",High
+"""I need help getting some food, I haven’t eaten in a while.""",Low
+"""Please bring me my prescribed heart medication.""",High
+"""Can someone assist me with my feeding tube?""",High
+"""I need assistance with my insulin pump.""",High
+"""Please help me adjust my position in bed.""",Low
+"""Can you help me with my physical therapy exercises?""",High
+"""I need assistance with my breathing exercises.""",High
+"""Please bring me my prescribed pain relief medication.""",High

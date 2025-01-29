@@ -1,0 +1,27 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.jsx",  // Added for .jsx support
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "app/screens/index.jsx",
+    "app/screens/_layout.jsx",
+    "components/ThemedView.jsx",
+    "components/ThemedText.jsx",
+    "components/ParallaxScrollView.jsx",
+    "components/HelloWave.jsx",
+    "components/HapticTab.jsx",
+    "components/ExternalLink.jsx",
+    "components/Collapsible.jsx"
+  ]
+}

@@ -1,0 +1,4 @@
+__pycache__
+.env
+env
+model/tf_model.h5

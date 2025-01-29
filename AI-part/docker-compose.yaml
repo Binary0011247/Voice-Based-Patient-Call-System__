@@ -1,0 +1,20 @@
+
+services:
+  call-system:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: call-system:latest
+    container_name: call-system
+    restart: always
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: ["gpu"]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    ports:
+      - "8000:8000" 
